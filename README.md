@@ -1,4 +1,4 @@
-# blockchain-evoting-system
+# blockchain-E-voting-system
 
 This repository includes an exhaustive literature review and comparative study of various blockchain-based electronic voting systems. The main aim of this project is to compare the existing research papers based on their methodologies, system design, consensus algorithms, security, and scalability models.
 
